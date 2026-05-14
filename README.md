@@ -1,4 +1,4 @@
-## Splitinam - Frontend
+# Splitinam - Frontend
 A React frontend for splitting shared expenses between groups - built with Vite and React.
 > Create a session, share a direct link with your group, and everyone can open it and mark themselves as paid in real time. Connects to the [Splitinam API](https://github.com/dagnmt/splitinam-api).
 
